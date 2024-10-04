@@ -25,6 +25,9 @@ __pycache__/
 *.sel
 *.stt
 *.odb
+*.lck
+*.cid
+*.simlog
 
 # Function test files
 test*
